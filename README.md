@@ -1,4 +1,4 @@
-# LLMVLM_Finetuning
+# Fine-tuning LLaMA 3.2 11B Vision for Molecular image understanding
 
 ![image](https://github.com/user-attachments/assets/0644ded7-964b-4e1c-adbe-d1f626f334df)
 
