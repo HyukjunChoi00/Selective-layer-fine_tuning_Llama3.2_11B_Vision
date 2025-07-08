@@ -1,5 +1,8 @@
 # LLMVLM_Finetuning
 
+![image](https://github.com/user-attachments/assets/0644ded7-964b-4e1c-adbe-d1f626f334df)
+
+
 ## Fine-tuning LLaMA 3.2 11B Vision
 
 - LoRA + Selective Layer fine-tuning
