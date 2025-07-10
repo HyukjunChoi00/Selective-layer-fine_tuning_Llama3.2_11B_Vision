@@ -9,3 +9,9 @@
 - Image Augmentation
 - Synthetic Datasets
 - GPT-based Evaluation
+
+### Layer selection
+- Later Vision MLP
+- Vision encoder LayerNorm
+- Language encoder MLP
+- Cross-attention layer
